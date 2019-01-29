@@ -7,10 +7,8 @@ Soo-Chang Pei and Keng-Shih Lu, "Intrinsic Integer-Periodic Functions for Discre
 To reproduce the results in the paper, try the following scripts:
 
   demo_cosine
-  
   demo_timeshift
 
 
-20190129
-
 Keng-Shih Lu (kengshil at usc dot edu)
+20190129
